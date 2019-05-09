@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profiles":[
+    {"id": 1, "namme": "john", "age": 21},
+    {"id": 2, "namme": "judy", "age": 31},
+    {"id": 3, "namme": "jack", "age": 41},
+    {"id": 4, "namme": "jace", "age": 12}
+  ]
 }
